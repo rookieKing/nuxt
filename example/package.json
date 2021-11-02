@@ -1,0 +1,24 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nuxt": "^2.15.8",
+    "express": "^4.17.1"
+  },
+  "config": {
+    "nuxt": {
+      "host": "127.0.0.1",
+      "port": "8080"
+    }
+  }
+}
